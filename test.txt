@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 anupam updated
 login 
 payment
-
-=======
-this is payment branch
-payment
 google pay
->>>>>>> 6595876 (gpay)
+phonepe
+
